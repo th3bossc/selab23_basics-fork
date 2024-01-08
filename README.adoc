@@ -1,4 +1,5 @@
 ---
+i am stupid
 tags: [rest, hateoas, hypermedia, security, testing, oauth]
 projects: [spring-framework, spring-hateoas, spring-security, spring-security-oauth]
 ---
